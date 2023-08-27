@@ -1,7 +1,6 @@
 #syötteet
-kanta= (float)(input("suorakulmion kanta   : "))
-korkeus= (float)(input("suorakulmion korkeus   : "))
+kanta= (float)(input("Suorakulmion kanta: "))
+korkeus= (float)(input("Suorakulmion korkeus: "))
 
 #prosessointi
-ala = kanta * korkeus
 piiri = kanta 2 * korkeus 2
