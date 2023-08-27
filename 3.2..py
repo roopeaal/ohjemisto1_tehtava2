@@ -8,4 +8,4 @@ elif hyttiluokka == "B":
 elif hyttiluokka == "C":
     print("Sinulla on ikkunaton hytti autokannen alapuolella.")
 else:
-    print("Virheellinen hyttiluokka")
+    print("Virheellinen hyttiluokka.")
